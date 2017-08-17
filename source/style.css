@@ -1,0 +1,39 @@
+html body{
+	background-repeat: none;
+	background-color: black;
+	margin:0px;
+	padding:0px;
+}
+#container{
+	margin:0 auto;
+	width:1000px;
+	background-color: grey;
+}
+#header{
+	background-color: HotPink;
+	padding: 20px;
+}
+#navigation{
+	width:1000px;
+	background-color: IndianRed;
+}
+#navigation ul{
+	margin:0px;
+	padding opx;
+}
+#navigation ul li{
+	display:block;
+	padding:10px;
+	color:white;
+	text-decoration:none;
+	border-right:1px solid black;
+}
+#navigation li a hover {
+	background:black;
+	}
+#content {
+	padding-left:20px;
+}
+#footer {
+	padding:20px;
+}
